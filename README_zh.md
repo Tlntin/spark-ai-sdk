@@ -1,3 +1,5 @@
+## [English](README.md) | 中文
+
 ## 这是什么
 - 讯飞星火AI大模型的python SDK
 

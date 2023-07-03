@@ -1,3 +1,5 @@
+## English | [中文](README_zh.md)
+
 ## what is?
 - python sdk for XunFei (iFLYTEK) Spark AI
 
