@@ -1,0 +1,21 @@
+[project]
+name = "spark-ai-sdk"
+version = "0.0.2"
+authors = [
+  { name="Tlntin" },
+]
+description = "python api for XunFei (iFLYTEK) Spark AI"
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: Apache Software License",
+    "Operating System :: OS Independent",
+]
+dependencies = [
+  "websocket_client>=1.6.1",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/Tlntin/spark-ai-sdk"
+"Bug Tracker" = "https://github.com/Tlntin/spark-ai-sdk/issues"

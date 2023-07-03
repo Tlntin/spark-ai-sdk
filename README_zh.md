@@ -8,12 +8,7 @@
 
 2. 安装
 ```bash
-git clone https://github.com/Tlntin/spark-ai-sdk.git
-cd spark-ai-sdk
-python setup.py install
-
-# 或者
-pip install git+https://github.com/Tlntin/spark-ai-sdk.git
+pip install spark-ai-sdk
 ```
 
 3. 使用
