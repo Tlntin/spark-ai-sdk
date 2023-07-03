@@ -28,7 +28,7 @@ APISecret = "xxxxxxxxxxxxxxxxxxxxx"
 APIKey = "xxxxxxxxxxxxxxxxxxxxxxxxxxx"
 API_URL = "wss://spark-api.xf-yun.com/v1.1/chat"
 # ------------------------
-server = SparkAPI(
+server = SparkAI(
     app_id=APP_ID,
     api_key=APIKey,
     api_secret=APISecret,

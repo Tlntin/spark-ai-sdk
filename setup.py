@@ -10,8 +10,8 @@ if sys.version_info < (3, 5):
 setup(
     author="Tlntin",
     description="python api for XunFei (iFLYTEK) Spark AI",
-    url="https://github.com/Tlntin/spark_api",
-    name="spark_ai_sdk",
+    url="https://github.com/Tlntin/spark-ai-sdk.git",
+    name="spark-ai-sdk",
     version="0.0.1",
     packages=['spark_ai_sdk'],
     install_requires=[

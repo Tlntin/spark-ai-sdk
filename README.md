@@ -8,12 +8,12 @@
 
 2. install
 ```bash
-git clone https://github.com/Tlntin/spark_api
-cd html2epub
+git clone https://github.com/Tlntin/spark-ai-sdk.git
+cd spark-ai-sdk
 python setup.py install
 
 # or
-pip install git+https://github.com/Tlntin/spark_ai_sdk
+pip install git+https://github.com/Tlntin/spark-ai-sdk.git
 ```
 
 3. use
@@ -28,7 +28,7 @@ APISecret = "xxxxxxxxxxxxxxxxxxxxx"
 APIKey = "xxxxxxxxxxxxxxxxxxxxxxxxxxx"
 API_URL = "wss://spark-api.xf-yun.com/v1.1/chat"
 # ------------------------
-server = SparkAPI(
+server = SparkAI(
     app_id=APP_ID,
     api_key=APIKey,
     api_secret=APISecret,
