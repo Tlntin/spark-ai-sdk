@@ -1,4 +1,4 @@
-from spark_api.spark_api import SparkAPI
+from spark_ai_sdk.spark_ai import SparkAI
 
 
 if __name__ == "__main__":
@@ -9,7 +9,7 @@ if __name__ == "__main__":
     APIKey = "xxxxxxxxxxxxxxxxxxxxxxxxxxxx"
     API_URL = "wss://spark-api.xf-yun.com/v1.1/chat"
     # ------------------------
-    server = SparkAPI(
+    server = SparkAI(
         app_id=APP_ID,
         api_key=APIKey,
         api_secret=APISecret,

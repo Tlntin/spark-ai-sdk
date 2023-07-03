@@ -1,10 +1,10 @@
-## what is?
-- python sdk for XunFei (iFLYTEK) Spark AI
+## 这是什么
+- 讯飞星火AI大模型的python SDK
 
 ## how to use
-1. get Spark AI api in https://www.xfyun.cn/
+1. 需要从官网 https://www.xfyun.cn/ 获取API
 
-2. install
+2. 安装
 ```bash
 git clone https://github.com/Tlntin/spark_api
 cd html2epub
@@ -14,7 +14,7 @@ python setup.py install
 pip install git+https://github.com/Tlntin/spark_ai_sdk
 ```
 
-3. use
+3. 使用
 
 ```python
 from spark_ai_sdk.spark_ai import SparkAI

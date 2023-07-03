@@ -6,7 +6,7 @@ import base64
 from urllib.parse import urlencode, urlparse
 
 
-class SparkAPI:
+class SparkAI:
     def __init__(self, app_id, api_key, api_secret, api_url):
         """
          you can get this in https://www.xfyun.cn/
