@@ -2,6 +2,7 @@
 - python api for XunFei (iFLYTEK) Spark AI
 
 ## how to use
+- get Spark AI api in https://www.xfyun.cn/
 
 - install
 ```bash
