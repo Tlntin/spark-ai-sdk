@@ -1,4 +1,4 @@
-## English | [中文](README_zh.md)
+## English | [中文](https://github.com/Tlntin/spark-ai-sdk/blob/main/README_zh.md)
 
 ## what is?
 - python sdk for XunFei (iFLYTEK) Spark AI
