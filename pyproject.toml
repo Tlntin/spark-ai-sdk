@@ -4,7 +4,7 @@ version = "0.0.3"
 authors = [
   { name="Tlntin" },
 ]
-description = "python api for XunFei (iFLYTEK) Spark AI"
+description = "python sdk for XunFei (iFLYTEK) Spark AI"
 readme = "README.md"
 requires-python = ">=3.7"
 classifiers = [
